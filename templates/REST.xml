@@ -1,0 +1,28 @@
+<templateSet group="REST">
+  <template name="path" value="@Path(&quot;$PATH$&quot;)" description="@Path(&quot;&lt;path&gt;&quot;)" toReformat="false" toShortenFQNames="true">
+    <variable name="PATH" expression="&quot;/&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="get" value="@GET" description="@GET" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="getjson" value="@GET&#10;@Produces(&quot;application/json&quot;)" description="@GET and @PRODUCES" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="prodjson" value="@PRODUCES(&quot;application/json&quot;)" description="@PRODUCES" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="prodcon" value="@Produces(&quot;application/json&quot;)&#10;@Consumes(&quot;application/json&quot;)" description="@PRODUCES and @CONSUMES" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
