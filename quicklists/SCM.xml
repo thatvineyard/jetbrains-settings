@@ -1,0 +1,10 @@
+<list display="SCM" description="Quick links for SCM">
+  <action id="CheckinProject" />
+  <action id="Git.Pull" />
+  <action id="Vcs.Push" />
+  <action id="Git.Branches" />
+  <action id="QuickList.$Separator$" />
+  <action id="LocalHistory.ShowHistory" />
+  <action id="LocalHistory.ShowSelectionHistory" />
+  <action id="Annotate" />
+</list>
