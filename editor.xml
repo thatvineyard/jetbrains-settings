@@ -10,5 +10,6 @@
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+    <option name="IS_CAMEL_WORDS" value="true" />
   </component>
 </application>
