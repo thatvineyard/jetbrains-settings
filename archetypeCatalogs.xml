@@ -1,5 +1,5 @@
 <application>
   <component name="ArchetypeCatalogSettings">
-    <archetype-catalog>file:/$MAVEN_REPOSITORY$/archetype-catalog.xml</archetype-catalog>
+    <archetype-catalog>file:/$USER_HOME$/.m2/archetype-catalog.xml</archetype-catalog>
   </component>
 </application>
