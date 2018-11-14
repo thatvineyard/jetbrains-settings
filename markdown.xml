@@ -1,5 +1,5 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings TextEnabled="true" StylesheetText="body {&#10;    max-width: 60%;&#10;    margin-left: auto;&#10;    margin-right: auto;&#10;}" />
+    <MarkdownCssSettings StylesheetUri="" TextEnabled="true" StylesheetText="body {&#10;    max-width: 60%;&#10;}" />
   </component>
 </application>
