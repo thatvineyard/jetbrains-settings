@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\TEST\src\main\java\com\teliacompany\ccimprove\reuse\rest\DbQueryAPI.java [TEST]'" />
+    <option name="defaultScopeName" value="File '...\TEST\src\main\java\com\teliacompany\ccimprove\reuse\rest\DbQueryAPI.java [TEST]'" />
+    <option name="SEARCH_SCOPE" value="File '...\TEST\src\main\java\com\teliacompany\ccimprove\reuse\rest\DbQueryAPI.java [TEST]'" />
   </component>
 </application>
