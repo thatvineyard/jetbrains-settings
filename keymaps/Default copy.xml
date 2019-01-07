@@ -41,6 +41,8 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
@@ -64,10 +66,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
   <action id="MethodDown">
-    <keyboard-shortcut first-keystroke="shift ctrl down" />
+    <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
   <action id="MethodUp">
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl 3" />
