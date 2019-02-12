@@ -30,6 +30,7 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="ContextHelp" />
   <action id="CopyElement" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
@@ -52,6 +53,9 @@
   <action id="FileChooser.GotoModule" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="GotoBookmark0" />
   <action id="GotoBookmark3" />
