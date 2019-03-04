@@ -1,19 +1,28 @@
 <keymap version="1" name="ThatVineyard" parent="$default">
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 3" />
+  </action>
   <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
     <keyboard-shortcut first-keystroke="alt f11" />
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
   </action>
   <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="alt 6" />
     <keyboard-shortcut first-keystroke="alt f9" />
+    <keyboard-shortcut first-keystroke="shift alt 2" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
   <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="alt 5" />
-    <keyboard-shortcut first-keystroke="shift alt 5" />
+    <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
@@ -28,6 +37,11 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="divide" />
   </action>
   <action id="ContextHelp" />
   <action id="CopyElement" />
@@ -108,9 +122,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="QuickChangeScheme" />
-  <action id="QuickList.SCM">
-    <keyboard-shortcut first-keystroke="alt back_quote" />
-  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
