@@ -6,6 +6,10 @@
           <option name="url" value="https://diva.teliacompany.net/bitbucket/scm/~dkj347/traineeproject19.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://diva.teliacompany.net" />
+          <option name="userName" value="dkj347" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\dkj347\Offline Documents\Programming" />
