@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'admin-core-ejb'" />
-    <option name="defaultScopeName" value="Module 'admin-core-ejb'" />
-    <option name="SEARCH_SCOPE" value="Module 'admin-core-ejb'" />
+    <option name="customScope" value="File '...\admin-core-ejb\src\main\java\com\teliasonera\ccimprove\reuse\admin\core\repositories\LoginUserRepository.java [admin-core-ejb]'" />
+    <option name="defaultScopeName" value="File '...\admin-core-ejb\src\main\java\com\teliasonera\ccimprove\reuse\admin\core\repositories\LoginUserRepository.java [admin-core-ejb]'" />
+    <option name="SEARCH_SCOPE" value="File '...\admin-core-ejb\src\main\java\com\teliasonera\ccimprove\reuse\admin\core\repositories\LoginUserRepository.java [admin-core-ejb]'" />
   </component>
 </application>
