@@ -11,7 +11,11 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
+      <mapping ext="dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="YAML" />
     </extensionMap>
   </component>
 </application>
